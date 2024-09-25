@@ -20,12 +20,12 @@ Puedes ajustar la **sensibilidad del ratón** y reasignar teclas en el teclado. 
 ![personalizacion raton](https://www.profesionalreview.com/wp-content/uploads/2019/12/macros-razer-raton-03.jpg) ![personalizacion teclado](https://www.profesionalreview.com/wp-content/uploads/2019/12/macros-razer-teclado-05.png)
 ## Adaptación
 
-Muchos encuentran que el teclado y el ratón son más **cómodos** para jugar durante mucho tiempo. Puedes ajustar la posición de tus manos para evitar la fatiga.
+Muchos encuentran que el teclado y el ratón son más **cómodos** para jugar durante mucho tiempo. Puedes ajustar la posición de tus manos para evitar el cansancio.
 
 ## Juegos Competitivos
 
 En los **eSports**, la mayoría de los jugadores usan teclado y ratón porque ofrecen mejor control y precisión.
-
+![eSports](https://media.licdn.com/dms/image/v2/D4E12AQE-VOpte_tWsQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1694769639667?e=2147483647&v=beta&t=dquGIIWR6tCu206f1Zi86YujNgTn1E0G-eKSgUNq19k)
 ## Conclusión
 
 Aunque los mandos son buenos para algunos juegos, normalmente sigle players o de plataformas, el teclado y el ratón te ofrece mejor control sobre los juegos.
