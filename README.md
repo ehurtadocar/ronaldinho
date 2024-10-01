@@ -7,7 +7,7 @@
 
 El ratón te da una **precisión**. Es perfecto para apuntar en juegos de disparos. Además, el teclado tiene muchas teclas que puedes personalizar para hacer lo que quieras.
 
-![Raton](https://assets2.razerzone.com/images/pnx.assets/c174e90e94ab3f247fa562eaecc282b4/500x500-razer-naga-v2-pro.webp)
+![Ratón](https://assets2.razerzone.com/images/pnx.assets/c174e90e94ab3f247fa562eaecc282b4/500x500-razer-naga-v2-pro.webp)
 
 ## Reflejos / Velocidad de reacción
 
@@ -17,10 +17,10 @@ Con el ratón, puedes **reaccionar más rápido**. Mover el cursor es más rápi
 
 Puedes ajustar la **sensibilidad del ratón** y reasignar teclas en el teclado. Esto te permite adaptar todo a tu estilo de juego.
 
-![personalizacion raton](https://www.profesionalreview.com/wp-content/uploads/2019/12/macros-razer-raton-03.jpg) ![personalizacion teclado](https://www.profesionalreview.com/wp-content/uploads/2019/12/macros-razer-teclado-05.png)
+![personalizacion ratón](https://www.profesionalreview.com/wp-content/uploads/2019/12/macros-razer-raton-03.jpg) ![personalizacion teclado](https://www.profesionalreview.com/wp-content/uploads/2019/12/macros-razer-teclado-05.png)
 ## Adaptación
 
-Muchos encuentran que el teclado y el ratón son más **cómodos** para jugar durante mucho tiempo. Puedes ajustar la posición de tus manos para evitar el cansancio.
+Son muchos los que creen que el teclado y el ratón son más **cómodos** para jugar durante mucho tiempo. Puedes ajustar la posición de tus manos para evitar el cansancio.
 
 ## Juegos Competitivos
 
